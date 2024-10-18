@@ -1,0 +1,22 @@
+{
+  "name": "todomvctests",
+  "version": "1.0.0",
+  "description": "Text exercise FemQA",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naniboal/todomvctests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naniboal/todomvctests/issues"
+  },
+  "homepage": "https://github.com/Naniboal/todomvctests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.6"
+  }
+}
