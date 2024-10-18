@@ -44,7 +44,7 @@ Running a Single Test
 To run a specific test file, specify its path:
 
 ```bash
-npx playwright test tests/ContentLoading.spec.js
+npx playwright test tests/Content.spec.js
 ```
 Running Tests in Headed Mode
 To see the browser actions while running tests, use:
